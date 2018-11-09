@@ -1,5 +1,0 @@
-<?php
-$idgroup = '735969126506947';
-$facebook_access_token='EAAAAUaZA8jlABAPrdKs0PJa6HwiI8QdI9BLHtHR640ZCF0KZAxXoMf8bLThqXxr7LNiTk9ZBWHVqVlmzC7rTbAj3joT1gQKaPApeylGaP8tLIzZCTlh83v1QfQwnrcESkqTfmhriYOTBIfhAIBdAEsDaDfVfZAqqiVihw8YJXJy1OjrIePqZCVK';
-echo $idgroup;
-?>
